@@ -1,7 +1,7 @@
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
+$servername = "db";
+$username = "w2wuser";
+$password = "w2wpass";
 $dbname = "w2w_marketplace";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
