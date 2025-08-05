@@ -67,18 +67,9 @@ This project was not only built with a scalable web architecture but was also **
 
 ---
 
-## 📦 Local Development
+## 
 
-```bash
-git clone https://github.com/saivivek-01/w2w-marketplace.git
-cd w2w-marketplace
-
-# Build and start the app
-docker-compose up --build
-
-# Access app at: http://localhost:8000
-
-🛡️ Security & Best Practices
+## 📦 Local Development🛡️ Security & Best Practices
 	•	🔐 UFW Firewall (ports 22, 80, 443)
 	•	🔑 SSH key-based access only
 	•	🚫 MySQL access restricted to container
@@ -87,7 +78,7 @@ docker-compose up --build
 
 ⸻
 
-🧠 Future Enhancements
+##  🧠 Future Enhancements
 	•	🧠 Add AI-powered waste type classification
 	•	📦 Integrate object storage for images (e.g., AWS S3 / DO Spaces)
 	•	📊 Add dashboards using Chart.js or similar
@@ -96,7 +87,7 @@ docker-compose up --build
 
 ⸻
 
-🙋‍♂️ Author
+##  🙋‍♂️ Author
 
 Sai Vivek Mallavalli
 👨‍🎓 B.Tech 2026 | Cloud & AI Enthusiast
